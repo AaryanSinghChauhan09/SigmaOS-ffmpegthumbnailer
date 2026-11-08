@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_ffmpegthumbnailer"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS ffmpegthumbnailer component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_ffmpegthumbnailer"
+path = "src/lib.rs"
