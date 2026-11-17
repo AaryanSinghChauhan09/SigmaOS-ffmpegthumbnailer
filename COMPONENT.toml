@@ -3,7 +3,7 @@ name = "SigmaOS-ffmpegthumbnailer"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ffmpegthumbnailer component"
+description = "SigmaOS SigmaOS-ffmpegthumbnailer component"
 upstream = []
 
 [contract]
